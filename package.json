@@ -1,0 +1,23 @@
+{
+  "name": "react-native-loading-effect-stateless",
+  "version": "1.0.0",
+  "description": "a simple loading effect",
+  "main": "LoadingEffect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GallenHu/react-native-loading-effect-stateless.git"
+  },
+  "keywords": [
+    "react-native",
+    "loading"
+  ],
+  "author": "GallenHu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GallenHu/react-native-loading-effect-stateless/issues"
+  },
+  "homepage": "https://github.com/GallenHu/react-native-loading-effect-stateless#readme"
+}
