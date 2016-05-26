@@ -8,6 +8,11 @@ Build base on  [react-native-loading-effect](https://github.com/Iliker/react-nat
 - Rmove `dismissLoadingEffect` Function
 - Add props `isCover`
 
+## Install
+```shell
+npm install react-native-loading-effect-stateless --save
+```
+
 ## Usage
 ```js
 import LoadingEffect from 'react-native-loading-effect-stateless';
