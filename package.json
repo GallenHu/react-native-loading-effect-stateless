@@ -14,7 +14,7 @@
     "react-native",
     "loading"
   ],
-  "author": "GallenHu",
+  "author": "hvanke",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/GallenHu/react-native-loading-effect-stateless/issues"
